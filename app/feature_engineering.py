@@ -10,6 +10,3 @@ def hashed_feature(value: str, num_buckets: int) -> int:
     digest = hashlib.md5(value.encode("utf-8")).hexdigest()
     as_int = int(digest, 16)
     return as_int % num_buckets
-
-
-this_will_fail =
