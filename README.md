@@ -1,3 +1,1 @@
-Machine Learning Operations | Homework 2
-
-Mohamed Bakour | 220911218
+Machine Learning Operations | CI-CD
